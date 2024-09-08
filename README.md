@@ -30,5 +30,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-siva&show_icons=true&locale=en&layout=compact" alt="mr-siva" /></p>
 
-### 🔝 Top Contributed Repo
+### 🔝 My Contributes to Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mr-siva&limit=5&theme=flat&combine_all_yearly_contributions=true)
