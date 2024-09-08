@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siva</h1>
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
+
+### Glad to see you here! 
+
 <h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector and in my free time, in my free time i used to work on Devops Projects.</h3>
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-siva&label=Profile%20views&color=0e75b6&style=flat" alt="mr-siva" /> </p>>>
