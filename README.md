@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [K8S With Helms](https://github.com/Mr-siva/k8s-helm-aws-eks-terraform-githuactions)
 
-- 🌱 I’m currently learning **DevOps Engineer & AWS Cloud Engineer**
+- 🌱 I’m currently learning **Python & Java**
 
 - 👨‍💻 All of my projects are available at [https://mr-siva.github.io/packetcodeofficial.github.io/](https://mr-siva.github.io/packetcodeofficial.github.io/)
 
